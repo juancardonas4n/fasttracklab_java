@@ -55,6 +55,7 @@
 
 * Decorator Pattern
 * Adapter Pattern
+* Strategy Pattern
 
 #### References
 

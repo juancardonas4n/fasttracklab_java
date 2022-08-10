@@ -43,6 +43,10 @@ Utilizar el mecanismo de [*Peer instruction*][pi] para introducir un caso de est
 ###  Por Hacer (TODO)
 
 * Revisar los temas que ser van a explorar <!-- TODO Vistazo a los capítulos 2-10 Libro [Caratan-2019][J2S] -->
+* Lectura sobre Gradle 1<!-- TODO Lectura de Gradle [Gradle in Action][gia] -->
+* Lectura sobre Gradle 2 <!-- TODO Lectura [Gradle User Manual][gum] -->
+* Lectura sobre JUnit 1 <!-- DONE Lectura de [Junit Chapter 10][fj] -->
+* Lectura sobre JUnit 2 <!-- TODO Lectura de [JUnit 5 User Guide][ju5] -->
 * Hacer caso de estudio <!-- TODO Hacer ejercicio del capítulo 11 Libro [Caratan-2019][J2S] -->
 
 ---
@@ -99,9 +103,7 @@ Utilizar el mecanismo de [*Peer instruction*][pi] para introducir un caso de est
 
 ---
 
-<!-- TODO Revisar que aparecen dos prácticas de IDE & Compilares. Creo quede haber una de este tema y otra del tema de control -->
-
-## Práctica - IDE & Compiler (¿Primera parte?)
+## Práctica - IDE & Compiler
 
 ### Planeación
 
@@ -139,9 +141,7 @@ Utilizar el mecanismo de [*Peer instruction*][pi] para introducir un caso de est
 
 ---
 
-<!-- TODO Revisar que aparecen dos prácticas de IDE & Compilares. Creo quede haber una de este tema y otra del tema de control -->
-
-## Práctica - IDE & Compiler (¿Segunda parte?)
+## Práctica - Control de programa
 
 ### Planeación
 
@@ -395,3 +395,12 @@ Utilizar el mecanismo de [*Peer instruction*][pi] para introducir un caso de est
 [dp]: Design Patterns. Elements of Reusable Object-Oriented Software. Gamma, Erich. Helm, Richard. Johnson, Ralph. Vlissides, John. 1995
 
 [bj8lf]: Shara, Kishori. Beginning Java 8 Language Feature. Apress. 2014
+
+[gia]: Muschko, Benjamin. Gradle in Action. Manning Publications. 2014
+
+[gum]: https://docs.gradle.org/current/userguide/userguide.html "Grade User Manual"
+
+[fj]: Parson, David. Foundational Java. Key Elements and Practical Programming. Springer. 2012
+
+[ju5]: https://junit.org/junit5/docs/current/user-guide/ "JUnit 5"
+
